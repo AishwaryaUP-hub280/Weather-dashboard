@@ -1,0 +1,20 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.weather-card {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid gray;
+}
